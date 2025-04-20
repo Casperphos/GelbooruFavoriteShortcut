@@ -4,7 +4,7 @@
 // @license MIT
 // @version      0.1
 // @description  Adds a keybind shortcut for adding images to favorites on Gelbooru.com
-// @author       Casperphos
+// @author       Casper
 // @match        https://gelbooru.com/*
 // @grant        none
 // @downloadURL https://update.sleazyfork.org/scripts/490513/Gelbooru%20Favorite%20Shortcut.user.js
